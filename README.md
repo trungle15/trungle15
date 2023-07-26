@@ -2,6 +2,14 @@
 <h3 align="center">Aspiring data scientist with obession in daily task automation.</h3>
 
 ![](https://komarev.com/ghpvc/?username=trungle15)
+
+## ⚡ Domains:
+- Machine Learning 
+- Data Science
+- Automation
+- UI/UX
+
+
 <!--
 **trungle15/trungle15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
