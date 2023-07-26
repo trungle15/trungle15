@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trung Le</h1>
+<h3 align="center">Aspiring data scientist with obession in daily task automation.</h3>
 
 
 <!--
